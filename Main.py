@@ -30,3 +30,4 @@
 #   - If those are the same, then just output the teams.
 
 #   4) Say goodbye and break out of the loop
+How many teams are playing?
